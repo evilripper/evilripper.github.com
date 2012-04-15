@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: comunicazioni | My Octopress Blog]]></title>
-  <link href="http://evilripper.github.com/blog/categories/comunicazioni/atom.xml" rel="self"/>
-  <link href="http://evilripper.github.com/"/>
-  <updated>2012-04-16T01:26:57+02:00</updated>
-  <id>http://evilripper.github.com/</id>
+  <link href="http://androideparanoide.github.com/blog/categories/comunicazioni/atom.xml" rel="self"/>
+  <link href="http://androideparanoide.github.com/"/>
+  <updated>2012-04-16T01:32:23+02:00</updated>
+  <id>http://androideparanoide.github.com/</id>
   <author>
     <name><![CDATA[evilripper]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[First commit]]></title>
-    <link href="http://evilripper.github.com/blog/2012/04/16/test-post/"/>
+    <link href="http://androideparanoide.github.com/blog/2012/04/16/test-post/"/>
     <updated>2012-04-16T00:08:00+02:00</updated>
-    <id>http://evilripper.github.com/blog/2012/04/16/test-post</id>
+    <id>http://androideparanoide.github.com/blog/2012/04/16/test-post</id>
     <content type="html"><![CDATA[<p><div class='bogus-wrapper'><notextile><figure class='code'><figcaption><span>Javascript Array Syntax </span><a href='http://j.mp/pPUUmW'>MDN Documentation </a></figcaption> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 <span class='line-number'>2</span>
 </pre></td><td class='code'><pre><code class='js'><span class='line'><span class="kd">var</span> <span class="nx">arr1</span> <span class="o">=</span> <span class="k">new</span> <span class="nb">Array</span><span class="p">(</span><span class="nx">arrayLength</span><span class="p">);</span>

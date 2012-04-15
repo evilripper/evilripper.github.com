@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://evilripper.github.com/atom.xml" rel="self"/>
-  <link href="http://evilripper.github.com/"/>
-  <updated>2012-04-16T01:26:57+02:00</updated>
-  <id>http://evilripper.github.com/</id>
+  <link href="http://androideparanoide.github.com/atom.xml" rel="self"/>
+  <link href="http://androideparanoide.github.com/"/>
+  <updated>2012-04-16T01:32:23+02:00</updated>
+  <id>http://androideparanoide.github.com/</id>
   <author>
     <name><![CDATA[evilripper]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[First commit]]></title>
-    <link href="http://evilripper.github.com/blog/2012/04/16/test-post/"/>
+    <link href="http://androideparanoide.github.com/blog/2012/04/16/test-post/"/>
     <updated>2012-04-16T00:08:00+02:00</updated>
-    <id>http://evilripper.github.com/blog/2012/04/16/test-post</id>
+    <id>http://androideparanoide.github.com/blog/2012/04/16/test-post</id>
     <content type="html"><![CDATA[
 
 <figure class='code'><figcaption><span>Javascript Array Syntax </span><a href='http://j.mp/pPUUmW'>MDN Documentation </a></figcaption> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
@@ -70,7 +70,7 @@ feeling-lucky), a [wiki: test] link to a Wikipedia page, and a link to
 <p>Now some inline markup like <em>italics</em>,  <strong>bold</strong>, and <code>code()</code>. Note that underscores in
 words are ignored in Markdown Extra.</p>
 
-<p><img src="http://evilripper.github.com/images/photo.jpeg" title="Title is optional" alt="picture alt" /></p>
+<p><img src="http://androideparanoide.github.com/images/photo.jpeg" title="Title is optional" alt="picture alt" /></p>
 
 <blockquote><p>Blockquotes are like quoted text in email replies</p>
 
